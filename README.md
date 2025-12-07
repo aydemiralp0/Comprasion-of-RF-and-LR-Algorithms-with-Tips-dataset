@@ -1,4 +1,4 @@
-##🎉 Tip Prediction Model — Machine Learning Project
+## 🎉 Tip Prediction Model — Machine Learning Project
 
 Müşterinin restoran hesabına göre bahşiş miktarını tahmin eden ML projesi
 
